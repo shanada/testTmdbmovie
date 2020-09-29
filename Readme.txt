@@ -3,9 +3,6 @@ You can register for an API key https://developers.th getting-started/introduct
 The API documentation is available at https://www.t documentation/api
 You are to follow the detailed instructions as below
 
-my api_key for henryshanada@gmail.com
-1e614e28e3e30ee282026592fec6431c
-
 installation for android
 
 open terminal
